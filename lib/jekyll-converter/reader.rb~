@@ -1,0 +1,9 @@
+module JekyllConverter
+  class Reader
+    attr_reader :title
+
+    def intialize(io_object)
+      @title = "Don Cherry's Performance"
+    end
+  end
+end

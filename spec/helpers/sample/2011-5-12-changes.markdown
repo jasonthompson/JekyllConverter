@@ -1,0 +1,45 @@
+---
+layout: post
+title: Changes
+categories:
+  - metablog
+  - programming
+  - design
+---
+<figure>
+<img src="/images/2011/05/curving-road.jpg" alt="curving
+road" />
+</figure>
+
+In the past few days I've made some changes to Digressions, most of which are invisible to readers. The following is a detailed description of these changes. Be forewarned. 
+
+Changing Platforms and Hosts
+----------------------------
+I'm an inveterate builder. Along with ideas for writing, photography, video and music projects, I'm always entertaining a few software ideas. So a few months ago, I decided to dust off my Ruby skills and learn Ruby on Rails to bring some of these ideas to fruition. I laid the groundwork for this tinkering by moving Digressions to a virtual server at [Slicehost](http//www.slicehost.com "Slicehost"). Having a virtual server gives me the flexibility to set up the programming environment of my choice. 
+
+There are plenty of great books and [tutorials](http://ruby.railstutorial.org/ "Michael Hartl's Excellent 'Ruby on Rails Tutorial'") for Rails, but I learn best by getting my hands dirty, so I decided to write my own blogging platform. For an experienced Rails programmer this could be done in a day or two. For someone like me who has dived in over his head, this took a few months of working an hour or two everyday before going to work. In the end I learned rails, but abandoned the blogging platform leaving it 80% complete.
+
+While I didn't end up finishing my blogging platform this project taught me a lot. One important thing I learned was to trust my instincts. And my instincts were telling me that Rails is too big for the task at hand. Sure, you could use Rails to create a wonderful blogging platform, but I wanted something simpler. Just as I was coming to this realization, I stumbled across [Jekyll](https://github.com/mojombo/jekyll "Jekyll--a blog-aware static site generator for Ruby"), "a blog-aware static site generator for Ruby". The concept is simple: 
+
+1. Write your post using the text editor of your choice (I use MacVim) and save it in a folder called "\_posts";
+2. If you've got images, save them in an images folder;
+3. Run Jekyll at the command line in your blog folder to create the "\_site" folder;
+4. Deploy the contents of the "\_site" folder using whatever method you want.
+
+This sounds more complicated than it actually is. I created a script that takes care of the last two steps automatically. 
+
+There are many advantages to this way of doing things. For one thing, "baking" your weblog (i.e., generating static web pages instead of serving dynamic pages) results in better performance when visitor traffic spikes.  [Brent Simmons](http://inessential.com/2011/03/16/a_plea_for_baked_weblogs "A plea for baked weblogs") and [Tim Bray](http://www.tbray.org/ongoing/When/201x/2011/03/18/Baking-ongoing "More on Baking") recently made strong arguments in favor of baking, so I won't repeat them here. Another advantage is that your blog is automatically backed up. At the very least there is one copy on your computer and another on your server. Moreover, because there's always a local copy of your blog and because there are no databases to fiddle with, deploying to a new host is trivial. In contrast, moving a Wordpress or Moveable Type blog can be a pain. But even if you never plan on changing hosts, it's nice to have your posts living in text files rather than hidden away in a database. Finally, if you want to make changes or add plugins, the Jekyll code is easy to wrap your head around. 
+
+Design Tweaks
+-------------------
+
+While moving Digressions to a new platform, I decided to update the design. To begin with, I reimplemented the existing design using HTML5. If you look at the page source, you'll see that moving to HTML5 paid off in cleaner markup. A lot of the header cruft is gone and semantic tags make your structure clear. And it's a lot easier to style and/ or modify clearly structured HTML. With the new HTML in place, I tweaked the design to achieve a cleaner look. The most obvious changes are related to typography. I replaced Anivers, the font I was using for titles, with Adobe's Myriad Pro Condensed because Anivers wasn't displaying nicely on Windows XP computers (don't get me started about Windows XP font rendering). Font sizes where also changed to make the design look more proportional on multiple devices. And taking the advice of [The Elements of Typographic Style Applied to the Web](http://webtypography.net/Rhythm_and_Proportion/Horizontal_Motion/2.1.2/ "The Elements of Typographic Style Applied to the Web"), I narrowed the paragraphs keeping lines between 65 and 70 characters long to enhance readability. 
+
+The redesign is still a work in progress (I *did* mention I was an inveterate builder). I only have Macs and Linux computers at home, so testing on Internet Explorer is difficult. That said, I have IE 8 at work, so I can check the site there and then make my tweaks at home. It's currently readable on IE 8, but not as pretty as it is on modern browsers. A while back I made a commitment to stop waisting my time on designing around the quirks of outdated browsers, but I'll make a few small tweaks to improve rendering in IE 8.
+
+Now with all this change out of the way I can start posting words and images again. After all, isn't that what blogs are for? 
+
+
+*[HTML5]: Hypertext Markup Language 5
+*[HTML]: Hypertext Markup Language
+*[IE]: Internet Explorer

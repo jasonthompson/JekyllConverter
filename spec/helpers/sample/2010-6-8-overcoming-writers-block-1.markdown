@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Overcoming Writer's Block
+mt_id: 5
+date: 2010-06-08 15:21:21 -04:00
+categories:
+  - writing
+  - creativity
+---
+In the last few days I've written 1100 words of a short story. What's so special about that, you ask? I've been plagued with writer's block for almost a decade. The last substantial piece of fiction I finished was my MFA screenplay a decade or so ago. After graduation life intervened and swallowed me up. Financial issues, career stress and the many challenges of parenthood certainly played their role in stopping me from writing, but the main thing I had to overcome was fear. After the initial elation of finishing a screenplay wore off, I took a second look at it and hated it. After a year of writing, all I had to show for it was a shitty screenplay. I felt that I had failed. I became obsessed with finding the one brilliant idea that I could commit to for the next year or two of writing, but, of course, nothing seemed good enough. Every time I sat down to write, my inner critic -- we'll call him Mr. C -- would rip into me for having the audacity to write. It got to the point where I was no longer able to sit down with the intention of writing. I would get an idea and knock it around in my head for a few days before Mr. C finaly put it out of its misery. It got to the point where Mr. C hated my stuff so much that I stopped having ideas.
+
+I realized early on that Mr. C was really just fear of failure. This fear has been there throughout my life, but it gained strength during the last decade. But in the last few years I've begun to confront this fear in various ways. Meditation and exercise have been useful allies in this fight, allowing me to control my wayward thoughts. By the beginning of this year I was feeling much better -- in January I committed to pushing myself outside of my comfort zone this year. I guess it was inevitable that, given how much better I was feeling, my thoughts would come back to writing. I realized that everything I had done up to that point, even my shitty screenplay, contributed to the next piece of writing. Failure is a vital part of learning. Indeed, I would rather fail than not try at all, because as Mark Twain said, "twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do." It's tempting to look back at the last ten years with this feeling of disappointment, but I'm getting old and I'm looking to take advantage of the next ten or twenty years.
+
+A while ago I sat down and forced myself to come up with an idea for a story. Then over the next few weeks I grappled with it in my thoughts and in my journal. This time I would finish a project, even if it sucked. Evidently this work loosened up my creativity because a few days ago while I was washing the dishes another idea popped into my head. I finished up in the kitchen and went directly to my office to write the opening paragraphs. I have now established the first hour of my day, from 5:30 until 6:30 as my writing time. It's not a lot, but the story continues to unfold. 
+
+The lesson I'm slowly learning is so simple, it's embarrassing it's taken me so long: you can't write unless you put your ass on your seat and write. Everything starts with that.  
